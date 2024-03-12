@@ -37,4 +37,3 @@ I'm open to discussing any potential projects or opportunities. Looking forward 
 
 ---
 
-Feel free to customize this README file according to your preferences and the specific projects included in your portfolio. Good luck!
